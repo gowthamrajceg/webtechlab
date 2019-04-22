@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stud.xsl"?>
+<studInfo>
+<stud>
+<name>Abhilash</name>
+<dept>IT</dept>
+<rno>97709205001</rno>
+</stud>
+<stud>
+<name>Akhila</name>
+<dept>IT</dept>
+<rno>97709205002</rno>
+</stud>
+<stud>
+<name>Anaswara</name>
+<dept>IT</dept>
+<rno>97709205003</rno>
+</stud>
+</studInfo>
+
